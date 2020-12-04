@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "modem-timlive"
+name = "modem"
 version = "0.1.0"
-description = ""
+description = "Verifica velocidade do modem"
 authors = ["Leandro Costa <lscosta@gmail.com>"]
 
 [tool.poetry.dependencies]
