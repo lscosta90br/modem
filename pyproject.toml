@@ -11,6 +11,7 @@ dynaconf = "^3.1.2"
 
 [tool.poetry.dev-dependencies]
 pylint = "^2.6.0"
+ipython = "^7.19.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
